@@ -21,17 +21,17 @@
 > - 注册
 ><div align=center><img src="Resource/注册.jpg" width = 40% height = 40%/>
   
-> - 用户名已存在
-><div align=center><img src="Resource/用户名已存在.jpg" width = 40% height = 40%/>
+> - 用户已存在
+><div align=center><img src="Resource/用户已存在.jpg" width = 40% height = 40%/>
   
 > - 密码为空
 ><div align=center><img src="Resource/密码为空.jpg" width = 40% height = 40%/>
   
 > - 两次密码不一致
-><div align=center><img src="Resource/两次密码不一致 .jpg" width = 40% height = 40%/>
+><div align=center><img src="Resource/两次密码不一致.jpg" width = 40% height = 40%/>
   
 > - 注册成功
 ><div align=center><img src="Resource/注册成功.jpg" width = 40% height = 40%/>
   
-> - 登陆成功
-><div align=center><img src="Resource/登陆成功2 .jpg" width = 40% height = 40%/>
+> - 登录成功
+><div align=center><img src="Resource/登录成功2 .jpg" width = 40% height = 40%/>
