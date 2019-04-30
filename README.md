@@ -34,4 +34,4 @@
 ><div align=center><img src="Resource/注册成功.jpg" width = 40% height = 40%/>
   
 > - 登录成功
-><div align=center><img src="Resource/登录成功2 .jpg" width = 40% height = 40%/>
+><div align=center><img src="Resource/登录成功2.jpg" width = 40% height = 40%/>
