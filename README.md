@@ -6,4 +6,5 @@
 + account.pickle用以存储注册的账户信息，可以实现动态更新。
 
 
-<div align=center><img src="Resource/登录1.jpg" width = 30% height = 30%/>
+> - 登录
+><div align=center><img src="Resource/登录1.jpg" width = 40% height = 40%/>
